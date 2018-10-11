@@ -3,7 +3,7 @@
 This is my attempt at making a sentiment-classifier which is slightly different from the conventional positive-negative sentiment
 classifier. I attempt to differentiate between 'sarcasm' and 'facts'.
 
-## Order of files to run project on your PC
+## Order of files to run project on PC
 
 1. twitter-access.py - creates a text file containing tweets
 2. preprocessing.py - creates a text file containing processed tweets
